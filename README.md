@@ -3,7 +3,7 @@
 
 # Touropedia
    <b>Repository : </b> https://github.com/abhishek751982/Touropedia<br><br>
-   ![1  Home Page](https://user-images.githubusercontent.com/77907942/211846275-8c79ab71-9874-4224-89ee-963e84c18471.png)
+   ![image](https://github.com/abhishek751982/Touropedia/assets/85792918/b70a39ad-ee4a-44d3-8c08-7ffda21f4eaa)
    <br><br><br>
 </div>
 <br>
