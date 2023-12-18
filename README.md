@@ -26,30 +26,30 @@ Include search functionality, pagination, full responsive web site, …
 ![2  Home Page Pagination Functionality](https://user-images.githubusercontent.com/77907942/211848465-0bf91ff9-2160-4370-8c39-117689bef5f9.png)
 
 2. Login Functionality
-![Screenshot 2023-12-18 183323](https://github.com/abhishek751982/Touropedia/assets/85792918/bd42f371-0397-4ae4-a52c-cf689428ea0f)
-![Screenshot 2023-12-18 201310](https://github.com/abhishek751982/Touropedia/assets/85792918/ca09f4c8-0638-461d-bf13-adbe12a81ecc)
+![image](https://github.com/abhishek751982/Touropedia/assets/85792918/6b687dda-ddd8-4c96-9f22-296dc4955804)
+![image](https://github.com/abhishek751982/Touropedia/assets/85792918/e9dcf7fb-09e8-41cc-a0ea-62534caa7258)
 
 4. Login Using Google Account 
 ![10  Google SignUp functionality](https://user-images.githubusercontent.com/77907942/211848661-9d31b2bb-e03d-4bfb-8219-46f74d5ebcf4.png)
 
 5. SignUp Functionality
-![Screenshot 2023-12-18 183539](https://github.com/abhishek751982/Touropedia/assets/85792918/513957ed-ba64-4e96-8ac7-4275c6c03409)
-![Screenshot 2023-12-18 183605](https://github.com/abhishek751982/Touropedia/assets/85792918/64cdfa5c-533d-4185-afc5-d1da434ebefb)
+![image](https://github.com/abhishek751982/Touropedia/assets/85792918/15f10b6e-6e4e-4444-9e3c-867e1e05d057)
+![image](https://github.com/abhishek751982/Touropedia/assets/85792918/11b5f16f-8801-4376-b191-3fdba228cc27)
 
 6. Add Tours Functionality
-![Screenshot 2023-12-18 190039](https://github.com/abhishek751982/Touropedia/assets/85792918/60301de0-c62d-4062-abb8-1464635f4faa)
+![image](https://github.com/abhishek751982/Touropedia/assets/85792918/f5346413-90f0-4429-9cb5-903e762528fe)
 
 7. DashBoard(With Edit and Delete Tour functionality)
-![Screenshot 2023-12-18 193357](https://github.com/abhishek751982/Touropedia/assets/85792918/0b44d4f9-229d-44ed-b046-135a694ad648)
+![image](https://github.com/abhishek751982/Touropedia/assets/85792918/cc4828dc-f2c4-4070-96e2-d1c2a8b5a58b)
 
 8. Searching Using the Tags
-![Screenshot 2023-12-18 190310](https://github.com/abhishek751982/Touropedia/assets/85792918/d2b807e4-8cb0-4dc2-bae7-9374e32b371e)
+![image](https://github.com/abhishek751982/Touropedia/assets/85792918/0215e805-6159-429f-8d23-d73fa9f59041)
 
 9. Seaching using the search bar functionality
-![Screenshot 2023-12-18 190437](https://github.com/abhishek751982/Touropedia/assets/85792918/e817183f-73f4-480d-b174-e73f5beb3cb8)
+![image](https://github.com/abhishek751982/Touropedia/assets/85792918/f86c8465-8879-44d4-849e-deeb1cda4f24)
 
 10. View Tour Functionality
-![Screenshot 2023-12-18 190543](https://github.com/abhishek751982/Touropedia/assets/85792918/03cec658-31d7-439f-9249-3cd1ec60a2d6)
+![image](https://github.com/abhishek751982/Touropedia/assets/85792918/5f8e6397-405a-4360-b43c-7e405d7865ff)
 
 ## 2. Backend
 
