@@ -13,7 +13,7 @@
 
 This is a full stack MERN project using the technologies like ReactJS, NodeJS, ExpressJS and MongoDB and also embedded with the functionalities of Redux based Toolkit.
 This web app has all features like email authentication, google authentication.
-Embedded the CURD functionalities in all possible ways also embedded the functionalities like discussion area, comments area,
+Embedded the CURD functionalities in all possible ways, also embedded the functionalities like discussion area, comments area,
 include search functionality, pagination, and fully responsive website.
 <br><br>
 <br>
