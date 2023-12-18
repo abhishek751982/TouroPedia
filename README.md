@@ -26,7 +26,7 @@ Include search functionality, pagination, full responsive web site, …
 ![2  Home Page Pagination Functionality](https://user-images.githubusercontent.com/77907942/211848465-0bf91ff9-2160-4370-8c39-117689bef5f9.png)
 
 2. Login Functionality
-![5  Login]![Screenshot 2023-12-18 183323](https://github.com/abhishek751982/Touropedia/assets/85792918/bd42f371-0397-4ae4-a52c-cf689428ea0f)
+![Screenshot 2023-12-18 183323](https://github.com/abhishek751982/Touropedia/assets/85792918/bd42f371-0397-4ae4-a52c-cf689428ea0f)
 ![6  Toast Message Of Successfull](https://user-images.githubusercontent.com/77907942/211848605-da586e78-e6f4-4f76-8d7e-22bf5aed28fe.png)
 
 4. Login Using Google Account 
