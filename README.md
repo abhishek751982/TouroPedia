@@ -68,7 +68,7 @@ Include search functionality, pagination, full responsive web site, …
    - Add Categories
    
 4. Server Checks
-![13  Server Checks](https://user-images.githubusercontent.com/77907942/211848770-19c765ad-46d7-4a9f-8068-0ef6dd960f0a.png)
+![image](https://github.com/abhishek751982/Touropedia/assets/85792918/c6634af1-da51-4a37-b504-b0325a699ad0)
 
 5. MongoBD Databases:
    - User Databases
