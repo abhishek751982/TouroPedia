@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Tourify
+# Touropedia
    <b>Repository : </b> https://github.com/abhishek751982/Touropedia<br><br>
    ![1  Home Page](https://user-images.githubusercontent.com/77907942/211846275-8c79ab71-9874-4224-89ee-963e84c18471.png)
    <br><br><br>
