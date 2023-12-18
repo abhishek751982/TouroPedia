@@ -40,7 +40,7 @@ Include search functionality, pagination, full responsive web site, …
 ![Screenshot 2023-12-18 190039](https://github.com/abhishek751982/Touropedia/assets/85792918/60301de0-c62d-4062-abb8-1464635f4faa)
 
 7. DashBoard(With Edit and Delete Tour functionality)
-![9  DashBoard of the logined user](https://user-images.githubusercontent.com/77907942/211848648-bb4751d5-0b85-433e-9a92-527e0c3b9ce3.png)
+![Screenshot 2023-12-18 193357](https://github.com/abhishek751982/Touropedia/assets/85792918/0b44d4f9-229d-44ed-b046-135a694ad648)
 
 8. Searching Using the Tags
 ![Screenshot 2023-12-18 190310](https://github.com/abhishek751982/Touropedia/assets/85792918/d2b807e4-8cb0-4dc2-bae7-9374e32b371e)
