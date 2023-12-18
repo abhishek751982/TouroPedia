@@ -26,29 +26,29 @@ Include search functionality, pagination, full responsive web site, …
 ![2  Home Page Pagination Functionality](https://user-images.githubusercontent.com/77907942/211848465-0bf91ff9-2160-4370-8c39-117689bef5f9.png)
 
 2. Login Functionality
-![5  Login](https://user-images.githubusercontent.com/77907942/211848589-fcdb513d-5e7d-43f6-83a4-e83ddf674572.png)
+![5  Login]![Screenshot 2023-12-18 183323](https://github.com/abhishek751982/Touropedia/assets/85792918/bd42f371-0397-4ae4-a52c-cf689428ea0f)
 ![6  Toast Message Of Successfull](https://user-images.githubusercontent.com/77907942/211848605-da586e78-e6f4-4f76-8d7e-22bf5aed28fe.png)
 
-3. Login Using Google Account 
+4. Login Using Google Account 
 ![10  Google SignUp functionality](https://user-images.githubusercontent.com/77907942/211848661-9d31b2bb-e03d-4bfb-8219-46f74d5ebcf4.png)
 
-4. SignUp Functionality
+5. SignUp Functionality
 ![7  SignUp functionality](https://user-images.githubusercontent.com/77907942/211854416-0524f167-9fc8-4bd7-8b66-58f6faeeb297.png)
 ![8  SignUp Success Toast Message](https://user-images.githubusercontent.com/77907942/211854761-77613773-4c78-4f9f-b44b-d6cc0ae33855.png)
 
-5. Add Tours Functionality
+6. Add Tours Functionality
 ![11  Add tour functionality](https://user-images.githubusercontent.com/77907942/211848674-9f01d56d-adb8-4dd1-a4c9-9d1f6424291e.png)
 
-6. DashBoard(With Edit and Delete Tour functionality)
+7. DashBoard(With Edit and Delete Tour functionality)
 ![9  DashBoard of the logined user](https://user-images.githubusercontent.com/77907942/211848648-bb4751d5-0b85-433e-9a92-527e0c3b9ce3.png)
 
-7. Searching Using the Tags
+8. Searching Using the Tags
 ![4  Search By Tag](https://user-images.githubusercontent.com/77907942/211848565-6bd9cb4f-ff23-40c2-98a8-6c8f6e4b204b.png)
 
-8. Seaching using the search bar functionality
+9. Seaching using the search bar functionality
 ![12  Search By using Search functionality](https://user-images.githubusercontent.com/77907942/211848734-9221362f-4f1c-4272-b53e-d30d7c8afad4.png)
 
-9. View Tour Functionality
+10. View Tour Functionality
 ![3  Tour Details](https://user-images.githubusercontent.com/77907942/211848483-ccc2c216-393a-45ae-9ecd-b0ab223c8be8.png)
 
 ## 2. Backend
