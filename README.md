@@ -70,13 +70,7 @@ Include search functionality, pagination, full responsive web site, …
 4. Server Checks
 ![image](https://github.com/abhishek751982/Touropedia/assets/85792918/c6634af1-da51-4a37-b504-b0325a699ad0)
 
-5. MongoBD Databases:
-   - User Databases
-![14  MongoDB Tours](https://user-images.githubusercontent.com/77907942/211848780-ca9fce37-834e-48e9-97c4-7ffed1fafdfa.png)
-   - Tour Databases
-![15  MongoBD User](https://user-images.githubusercontent.com/77907942/211848801-1abdb407-0907-4608-8921-6948762f4f64.png)
-
-6. Folder Structures:
+5. Folder Structures:
    - Client Side
 ![16  Client Folder structures](https://user-images.githubusercontent.com/77907942/211848816-377cf82e-d0b1-4f44-a6ab-8ce6b92773f8.png)
    - Server Side
