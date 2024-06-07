@@ -63,16 +63,6 @@ include search functionality, pagination, and fully responsive website.
 3. Categories Routes:
    - Create Categories
    - Add Categories
-   
-4. Server Checks
-![image](https://github.com/abhishek751982/Touropedia/assets/85792918/c6634af1-da51-4a37-b504-b0325a699ad0)
-
-5. Folder Structures:
-   - Client Side
-![16  Client Folder structures](https://user-images.githubusercontent.com/77907942/211848816-377cf82e-d0b1-4f44-a6ab-8ce6b92773f8.png)
-   - Server Side
-![17  Server folder structure](https://user-images.githubusercontent.com/77907942/211848824-cc75144e-220f-4f15-a988-4d21d5f532af.png)
-<br/>
 
 # Technologies and Packages Used
 
@@ -94,3 +84,42 @@ include search functionality, pagination, and fully responsive website.
 6. Context API
 7. Path
 8. Google SignUp API
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/abhishek751982/Touropedia
+```
+
+Install dependencies
+
+```bash
+  cd client
+  npm install
+
+  cd server
+  npm install
+```
+
+Start the server
+
+```bash
+  cd client
+  npm Start
+
+  cd server
+  npm run dev
+
+  open "http://localhost:3000"
+```
+
+## About Me
+
+I am Abhishek Sharma a final year student at IIIT Gwalior pursuing Integrated Post Graduate (B.Tech+M.Tech) degree in Information Technology. Do checkout my LinkedIn and connect with me.
+
+### Connect with me :
+
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek751982@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-sharma-31b04a213/)
