@@ -11,10 +11,7 @@
 
 # Project Description
 
-This is a full stack MERN project using the technologies like ReactJS, NodeJS, ExpressJS and MongoDB and also embedded with the functionalities of Redux based Toolkit.
-This web app has all features like email authentication, google authentication.
-Embedded the CURD functionalities in all possible ways, also embedded the functionalities like discussion area, comments area,
-include search functionality, pagination, and fully responsive website.
+Touropedia is a comprehensive tour application built using the MERN stack (MongoDB, Express.js, React, Node.js). This application provides a diverse range of features including user authentication, CRUD operations for tours, discussions, comments, search functionality, and pagination. Additionally, the application leverages Redux Toolkit for state management to enhance functionality and user experience.
 <br><br>
 <br>
 
