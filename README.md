@@ -87,7 +87,7 @@ Touropedia is a comprehensive tour application built using the MERN stack (Mongo
 Clone the project
 
 ```bash
-  git clone https://github.com/abhishek751982/Touropedia
+  git clone https://github.com/abhishek751982/Touropedia.git
 ```
 
 Install dependencies
